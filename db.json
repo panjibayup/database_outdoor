@@ -1,0 +1,88 @@
+{
+  "best-products": [
+    {
+      "id": 1,
+      "kode": "K-01",
+      "nama": "Kursi Lipat XXL",
+      "harga": 10000,
+      "is_ready": true,
+      "gambar": "kursi.jpg"
+    },
+    {
+      "id": 2,
+      "kode": "K-02",
+      "nama": "Meja Lipat",
+      "harga": 15000,
+      "is_ready": true,
+      "gambar": "meja.jpg"
+    },
+    {
+      "id": 3,
+      "kode": "K-03",
+      "nama": "Tripod Bluetooth",
+      "harga": 10000,
+      "is_ready": true,
+      "gambar": "tripod.jpg"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "kode": "K-01",
+      "nama": "Kursi Lipat XXL",
+      "harga": 10000,
+      "is_ready": true,
+      "gambar": "kursi.jpg"
+    },
+    {
+      "id": 2,
+      "kode": "K-02",
+      "nama": "Meja Lipat",
+      "harga": 15000,
+      "is_ready": true,
+      "gambar": "meja.jpg"
+    },
+    {
+      "id": 3,
+      "kode": "K-03",
+      "nama": "Tripod Bluetooth",
+      "harga": 10000,
+      "is_ready": true,
+      "gambar": "tripod.jpg"
+    },
+    {
+      "id": 4,
+      "kode": "K-04",
+      "nama": "Kompor Portable",
+      "harga": 10000,
+      "is_ready": true,
+      "gambar": "kompor.jpg"
+    },
+    {
+      "id": 5,
+      "kode": "K-05",
+      "nama": "Gas Portable",
+      "harga": 10000,
+      "is_ready": true,
+      "gambar": "gas.jpg"
+    },
+    {
+      "id": 6,
+      "kode": "K-06",
+      "nama": "Hot Plate",
+      "harga": 10000,
+      "is_ready": true,
+      "gambar": "plate.jpg"
+    },
+    {
+      "id": 7,
+      "kode": "K-07",
+      "nama": "Tas Carrier TNF 65L",
+      "harga": 35000,
+      "is_ready": true,
+      "gambar": "tas.jpg"
+    }
+  ],
+  "keranjangs": [],
+  "pesanans": []
+}
